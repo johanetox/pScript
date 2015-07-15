@@ -1,4 +1,7 @@
 mkdir nuevaCarpeta
-echo pwd
+pwd
 cd nuevaCarpeta
-echo ls
+ls
+touch nuevoArchivo
+echo crear nuevo
+ls
